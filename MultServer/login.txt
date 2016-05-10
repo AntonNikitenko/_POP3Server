@@ -1,0 +1,6 @@
+USER:leo@mail.ru PASS:qwerty
+USER:slavaKarpov2016@mail.ru PASS:qwerty
+USER:anton@mail.ru PASS:lalkab13
+USER:toshik555.ru@mail.ru PASS:lalkab1309
+USER:usr1@mail.ru PASS:usr1
+USER:usr2@mail.ru PASS:usr2

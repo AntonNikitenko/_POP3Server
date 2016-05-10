@@ -1,0 +1,9 @@
+Date: Mon, 10 Dec 2002 23:26:11 +0300 (MSK/MSD)
+From: maxax@localhost
+To: test22@localhost
+cc: test22@localhost
+bcc:  test33@localhost
+Subject: Enjoy!
+Content-Type: text/plain
+
+lol

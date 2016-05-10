@@ -1,0 +1,10 @@
+Date: Mon, 10 Dec 2002 23:26:11 +0300 (MSK/MSD)
+From: max@localhost
+To: test2@localhost
+cc: test2@localhost
+bcc:  test@localhost
+Subject: Enjoy!
+Content-Type: text/plain
+
+Привет.
+Как дела?

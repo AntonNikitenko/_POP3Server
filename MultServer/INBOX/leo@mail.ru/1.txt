@@ -1,0 +1,10 @@
+Date: Mon, 6 Dec 2001 23:26:50 +0300 (MSK/MSD)
+From: test5@localhost
+To: test1@localhost
+cc: test1@localhost
+bcc:  test@localhost
+Subject: Hello
+Content-Type: text/plain
+
+Hello. 
+I'm batman

@@ -1,0 +1,9 @@
+Date: Mon, 9 Dec 2002 23:26:11 +0300 (MSK/MSD)
+From: Oleg111@localhost
+To: test3@localhost
+cc: test3@localhost
+bcc:  test24@localhost
+Subject: Message
+Content-Type: text/plain
+
+Where is detonator?

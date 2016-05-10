@@ -1,0 +1,9 @@
+Date: Fri, 6 Dec 2002 23:26:50 +0300 (MSK/MSD)
+From: test@localhost
+To: test1@localhost
+cc: test1@localhost
+bcc:  test@localhost
+Subject: Hello
+Content-Type: text/plain
+
+I'm murlock
